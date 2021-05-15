@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "316085855316",
+    "project_id": "iyilik-askisi-b4494",
+    "storage_bucket": "iyilik-askisi-b4494.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316085855316:android:16eb4da9a10e31cc45b9c1",
+        "android_client_info": {
+          "package_name": "com.iyilikaskisi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316085855316-u9p6ngluso3u3a84oo4p6eilp9plke9g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy--_XMlhgtezj_lXMmI3WijohIEoRK8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "316085855316-u9p6ngluso3u3a84oo4p6eilp9plke9g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
